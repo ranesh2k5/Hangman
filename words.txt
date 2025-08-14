@@ -1,7 +1,5 @@
-python
-java
-swift
-javascript
-hangman
-programming
-developer
+asteroid 
+nebula
+aurora
+milkyway
+interstellar
